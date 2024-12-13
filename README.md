@@ -1,4 +1,4 @@
-# Voltus - Subscription Management System
+# Voltus
 
 Voltus é um sistema de gerenciamento de assinaturas que permite gerenciar usuários, planos, assinaturas e faturas de maneira eficiente.
 
